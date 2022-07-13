@@ -1,2 +1,16 @@
 *.rbc
 *.fyc
+*.ilg
+*.gz
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.toc
+*.idx
+*.nav
+*.out
+*.snm
